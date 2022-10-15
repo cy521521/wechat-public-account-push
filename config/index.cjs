@@ -11,10 +11,10 @@ const USER_CONFIG = {
   APP_ID: 'wxad60d435a8357649',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'a8c223455027b0147c4efd7115ec4470',
+  APP_SECRET: 'd2ec9c397d24098cadeff641240e30c8',
 
   PROVINCE: '黑龙江',
-  CITY: '东宁',
+  CITY: '牡丹江',
 
   USERS: [
     {
